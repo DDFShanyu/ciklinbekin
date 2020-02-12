@@ -5299,7 +5299,7 @@
 粬	kyk4
 粦	ling5
 粞	se1
-粟	syk4,cioh4
+粟	syk4,~~cioh4,cuoh4~~
 粵	uok8
 粲	cang3,cang2
 粳	gang1
